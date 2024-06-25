@@ -1,6 +1,7 @@
-# Getting Started 
+# Getting Started
 
-```npm i```
+`npm i`
 
-```npm start```
+`npm start`
 
+From now, use only the .test.js extension for your test files and put them in /src/test/
