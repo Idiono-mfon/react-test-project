@@ -1,5 +1,5 @@
 const { render, screen, fireEvent } = require("@testing-library/react");
-const { default: Calculator } = require("components/Calculator");
+const { default: Calculator } = require("components/Calculator/Calculator");
 
 describe("<Calculator/>", () => {
   it("has 'Calculator' displayed somewhere", () => {
